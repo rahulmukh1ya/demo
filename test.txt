@@ -1,0 +1,11 @@
+hello world!!
+1.add the files you have changed 
+git add filename
+git add -u (only updated files)
+git add -A (All files)
+
+2. commit the changes 
+ git commit -m "commit message"
+
+3. Push the changes 
+git push
